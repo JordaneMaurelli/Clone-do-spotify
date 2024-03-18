@@ -228,7 +228,7 @@ h1{
     flex-shrink: 0;
     display: flex;
     flex-direction: flex-end;
-    border: 10px solid green;
+
     align-items: center;
     justify-content: center;
     margin-left: 1600px;
